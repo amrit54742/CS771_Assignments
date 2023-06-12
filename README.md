@@ -1,1 +1,1 @@
-This repository contains all the solutions done by me and my group members.
+This repository contains all the assignment solutions of the course CS771A.
